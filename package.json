@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "day3": "node ./day3-sol-lamports.mjs",
     "check-balance": "node ./check-balance.mjs",
     "create-wallet": "node ./create-wallet.mjs",
+    "persistent-wallet": "node ./persistent-wallet.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
